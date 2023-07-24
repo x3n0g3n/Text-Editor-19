@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create notes or code with or without an internet connection",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
